@@ -1,4 +1,4 @@
-Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage## Overview
+Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage
 
 ### Screenshot
 
