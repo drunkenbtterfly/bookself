@@ -2,7 +2,8 @@ Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage## Overview
 
 ### Screenshot
 
-![](./new_screenshot.png)
+Web Version - https://ibb.co/RbPQkxj
+Mobile Version - https://ibb.co/hcJn2pL
 
 ### Features
 
