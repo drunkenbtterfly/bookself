@@ -1,4 +1,4 @@
-Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage
+Data Management Application Using DOM and Web Storage
 
 ### Screenshot
 
@@ -7,11 +7,11 @@ Mobile Version - https://ibb.co/hcJn2pL
 
 ### Features
 
-- Mampu Menambahkan Data Buku baru.
-- Memiliki minimal Dua Rak Buku. Yakni "Belum selesai dibaca" dan "Selesai dibaca".
-- Dapat Memindahkan Buku antar Rak.
-- Dapat Menghapus Data Buku.
-- Memanfaatkan localStorage dalam Menyimpan Data Buku.
+- Able to Add new Book Data.
+- Have a minimum of Two Bookcases. Namely "Not finished reading" and "Completed reading".
+- Can Move Books between Shelves.
+- Can Delete Book Data.
+- Utilizing localStorage in Storing Book Data.
 
 ### Links
 
